@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: silver;
+}
+
+figure#example-room {
+  align-items: center;
+  text-align: center;
+  font-size: 11px;
+}
+
+section#featured-property p {
+  margin-left: 22%;
+  width: 800px;
+  text-align: center;
+}
+
+section#details {
+  float: left;
+  background-color: silver;
+  width: 100%;
+}
+
+section#details div {
+  text-align: center;
+  float: left;
+  width: 25%;
+}
